@@ -23,4 +23,8 @@ Pull requests are welcome.
 * Create the pull request.
 * Alternatively see the GitHub documentation on creating a pull request.
 
-![Memory Game](./memory-game.gif)
+
+## Found a bug?
+Reach me at irina.kose@gmail.com
+
+![Memory Game](/img/memory-game.png)
