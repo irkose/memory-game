@@ -27,4 +27,4 @@ Pull requests are welcome.
 ## Found a bug?
 Reach me at irina.kose@gmail.com
 
-![Memory Game](/img/memory-game.png)
+![memory-game](/img/memory-game.png)
