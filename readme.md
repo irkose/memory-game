@@ -1,7 +1,7 @@
 # Memory-game
 ## Description 
 Project developed in vanilla javascript following the tutorial from marina-ferreira.github.io.
-It covers the fundamentals of pure javascript in a simple project where no frameworks or libraries required. This project was inspired by Mr.Bean and Johny English moovies that kept me going through the lockdown in Melbourne during 2020. This hilarious caricatures were created by artist and caricaturist Rodney Pike. You can see move of his work here[here](https://www.instagram.com/rodneypike/?utm_source=ig_embed).
+It covers the fundamentals of pure javascript in a simple project where no frameworks or libraries required. This project was inspired by Mr.Bean and Johny English moovies that kept me going through the lockdown in Melbourne during 2020. This hilarious caricatures were created by artist and caricaturist Rodney Pike. You can see move of his work [here](https://www.instagram.com/rodneypike/?utm_source=ig_embed).
 
 This project covers how to:
 
@@ -27,4 +27,4 @@ Pull requests are welcome.
 ## Found a bug?
 Reach me at irina.kose@gmail.com
 
-![memory-game](/giphy.gif)
+![](/img/dance.gif)
